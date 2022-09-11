@@ -1,3 +1,27 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=farshadz1997&color=red)
+
+<div align="left">
+    <details>
+<summary>📕 About Me!</summary>
+
+## Resume: (About Me!)
+
+**👋 Hey, i'm Farshad!**
+
+🌱 **▸** I'm currently learning **Flutter** and also improving my skills in **Django** & **DRF**. \
+📚 **▸** I have bachelor in electrical engineering. \
+📫 **▸** I'm looking forward to find my place in the programming world.
+
+👾 **▸ About my hobbies, I like:**
+
+🎮 `Games` • 🏎️ `racing` • 🎲 `RPG` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
+
+##
+
+</div>
+
+###
+
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
