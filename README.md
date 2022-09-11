@@ -9,7 +9,7 @@
 **👋 Hey, i'm Farshad!**
 
 🌱 **▸** I'm currently learning **Flutter** and also improving my skills in **Django** & **DRF**. \
-📚 **▸** I have bachelor in electrical engineering. \
+📚 **▸** I have bachelor's in electrical engineering. \
 📫 **▸** I'm looking forward to find my place in the programming world.
 
 👾 **▸ About my hobbies, I like:**
