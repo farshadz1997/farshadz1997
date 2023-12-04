@@ -55,6 +55,4 @@
 <a href="https://www.instagram.com/farshadz_1997/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/farshad-zargari-444b2612b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 
-![Snake animation](https://github.com/farshadz1997/farshadz1997/blob/output/github-contribution-grid-snake.svg)
-
 </div>
