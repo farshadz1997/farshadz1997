@@ -14,7 +14,7 @@
 
 👾 **▸ About my hobbies, I like:**
 
-🎮 `Games` • 🏎️ `racing` • 🎲 `RPG` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
+🎮 `Games` • 🏎️ `racing` • 🎲 `RPG` • 🎞️ `Movies` • 📚 `Learning` • 🎧 `Music` 
 
 ##
 
@@ -37,12 +37,15 @@
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">&nbsp;&nbsp;
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">&nbsp;&nbsp;
+
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;&nbsp;
 
 ### <a href="https://emoji.gg/emoji/5606-dontknow"><img src="https://cdn3.emoji.gg/emojis/5606-dontknow.png" width="23px" height="23px" alt="dontknow"></a> What am I currently learning?
 ---
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;
